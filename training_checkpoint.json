@@ -1,0 +1,11 @@
+{
+  "n_games": 100,
+  "epsilon": 0.1,
+  "step_count": 36536,
+  "eps_start": 0.1,
+  "eps_end": 0.1,
+  "eps_decay": 0.9985,
+  "train_freq": 4,
+  "buffer_size": 36536,
+  "model_path": "model_checkpoint_100.pth"
+}
